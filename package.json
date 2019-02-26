@@ -1,0 +1,18 @@
+{
+  "name": "music-manager",
+  "version": "1.0.0",
+  "description": "manage your music files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ryder McDowell",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.395.0",
+    "axios": "^0.18.0",
+    "inquirer": "^6.2.2",
+    "junk": "^2.1.0",
+    "uuid": "^3.3.2"
+  }
+}
